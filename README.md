@@ -1,6 +1,6 @@
 # Pneumonia Detection using CNN
 
-This project aims to detect pneumonia in chest X-ray images using Convolutional Neural Networks (CNNs). The model is trained on a dataset sourced from [describe dataset source].
+This project aims to detect pneumonia in chest X-ray images using Convolutional Neural Networks (CNNs). The model is trained on a dataset sourced from Kaggle
 
 ## Table of Contents
 
